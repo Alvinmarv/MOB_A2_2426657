@@ -1,7 +1,8 @@
+
 {
   "expo": {
     "name": "AMPortfolio",
-    "slug": "AMPortfolio",
+    "slug": "amportfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,6 +11,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "rw.ac.ines.ug2426657.amportfolio",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
